@@ -44,3 +44,4 @@ Developing self driving cars requires many skill which mostly revolves around mo
 
 ## Related Links
 * [awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles/)
+* [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
