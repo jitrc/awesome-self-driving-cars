@@ -13,7 +13,7 @@ Developing self driving cars requires many skill which mostly revolves around mo
 
 ## Basic Software Library
 1. [ROS](http://www.ros.org/) Platform for easy development, visulization, logging and lots of community code in this platform
-2. [OpenCV] (http://opencv.org/) Computer Vision
+2. [OpenCV](http://opencv.org/) Computer Vision
 3. [PCL](http://pointclouds.org) 3D point cloud processing
 
 ## Datasets
