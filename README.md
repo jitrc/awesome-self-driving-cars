@@ -12,14 +12,15 @@ A curated list of awesome self driving cars resources, inspired by many includin
 Developing self driving cars requires many skill which mostly revolves around mobile robotics (percption, localization, path planning, controls, simulations) but can be very different, like end-to-end Deep Learning. I also sometimes requires knowledge of vehicle design, safety ... 
 
 ## Basic Software Library
-1. [ROS](http://www.ros.org/) Platform for easy development, visulization, logging and lots of community code in this platform
-2. [OpenCV](http://opencv.org/) Computer Vision
-3. [PCL](http://pointclouds.org) 3D point cloud processing
+1. [ROS](http://www.ros.org/) - Platform for easy development, visulization, logging and lots of community code in this platform
+2. [OpenCV](http://opencv.org/) - Computer Vision
+3. [PCL](http://pointclouds.org) - 3D point cloud processing
 
 ## Datasets
 * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/raw_data.php) - 6 hours of traffic scenarios at 10-100 Hz using a variety of sensor modalities such as highresolution
 * [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - Udacity driving datasets released for [Udacity Challenges](https://www.udacity.com/self-driving-car). Contains ROSBAG training data. .
 * [Oxford's Robotic Car](http://robotcar-dataset.robots.ox.ac.uk/) - over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. The dataset captures many different combinations of weather, traffic and pedestrians, along with longer term changes such as construction and roadworks.
+* [Caltech Pedestrians](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/) - approximately 10 hours of 640x480 30Hz video taken from a vehicle driving through regular traffic in an urban environmen
 
 ## Open Source Software
 
