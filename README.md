@@ -22,6 +22,9 @@ Developing self driving cars requires many skill which mostly revolves around mo
 * [Oxford's Robotic Car](http://robotcar-dataset.robots.ox.ac.uk/) - over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. The dataset captures many different combinations of weather, traffic and pedestrians, along with longer term changes such as construction and roadworks.
 * [Caltech Pedestrians](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/) - approximately 10 hours of 640x480 30Hz video taken from a vehicle driving through regular traffic in an urban environmen
 
+### Dataset Collection 
+* [OpenCV list](http://docs.opencv.org/3.0-beta/modules/datasets/doc/datasets.html)
+
 ## Open Source Software
 
 * [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
