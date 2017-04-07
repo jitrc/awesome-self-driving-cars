@@ -33,9 +33,27 @@ Developing self driving cars requires many skill which mostly revolves around mo
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) - development environment ready for Udacity Self Driving Car (SDC) Challenges.
 * [The OSCC Project](http://oscc.io/) - A by-wire control kit for autonomous vehicle development.
 
+### Calibration 
+#### Camera 
+* [ROS Camera Calibration](http://wiki.ros.org/camera_calibration)
+* [Calibration board](https://github.com/jsk-ros-pkg/calibboard_sheet)
+### Lidar and Camera
+* [but_calibration_camera_velodyne](https://github.com/robofit/but_velodyne/tree/master/but_calibration_camera_velodyne)
+* [Autoware-calibration_camera_lidar](https://github.com/CPFL/Autoware/tree/master/ros/src/sensing/fusion/packages/calibration_camera_lidar)
+
+### Visualization
+* [jsk-visualization](http://jsk-visualization.readthedocs.io/en/latest/jsk_rviz_plugins)
+
+### Mobile Apps (Android)
+* [jsk_android_apps](https://github.com/jsk-ros-pkg/jsk_smart_apps/tree/master/jsk_android_apps)
+
 ### Mapping/Localizing/Odometry 
 * [ethz-asl libpointmatcher](https://github.com/ethz-asl/libpointmatcher)
 * [But Velodyne](https://github.com/robofit/but_velodyne_lib)
+
+### Perception
+* [jsk-recognition](https://jsk-recognition.readthedocs.io)
+
 
 ### Using Deep Learning
 #### Obejct Detection
