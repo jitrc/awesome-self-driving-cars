@@ -37,7 +37,7 @@ Developing self driving cars requires many skill which mostly revolves around mo
 #### Camera 
 * [ROS Camera Calibration](http://wiki.ros.org/camera_calibration)
 * [Calibration board](https://github.com/jsk-ros-pkg/calibboard_sheet)
-### Lidar and Camera
+#### Lidar and Camera
 * [but_calibration_camera_velodyne](https://github.com/robofit/but_velodyne/tree/master/but_calibration_camera_velodyne)
 * [Autoware-calibration_camera_lidar](https://github.com/CPFL/Autoware/tree/master/ros/src/sensing/fusion/packages/calibration_camera_lidar)
 
