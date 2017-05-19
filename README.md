@@ -50,6 +50,9 @@ Developing self driving cars requires many skill which mostly revolves around mo
 ### Mapping/Localizing/Odometry 
 * [ethz-asl libpointmatcher](https://github.com/ethz-asl/libpointmatcher)
 * [But Velodyne](https://github.com/robofit/but_velodyne_lib)
+* [Dynamic_Robot_Localization](https://github.com/carlosmccosta/dynamic_robot_localization)
+
+
 
 ### Perception
 * [jsk-recognition](https://jsk-recognition.readthedocs.io)
