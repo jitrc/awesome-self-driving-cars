@@ -33,6 +33,9 @@ Developing self driving cars requires many skill which mostly revolves around mo
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) - development environment ready for Udacity Self Driving Car (SDC) Challenges.
 * [The OSCC Project](http://oscc.io/) - A by-wire control kit for autonomous vehicle development.
 
+### Platforms/Framework 
+* [Real-time Control: RTT, orocos and Xenomai]( http://rtt-lwr.readthedocs.io/en/latest/)
+
 ### Calibration 
 #### Camera 
 * [ROS Camera Calibration](http://wiki.ros.org/camera_calibration)
